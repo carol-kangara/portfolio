@@ -1,0 +1,15 @@
+body{
+    background-color: skyblue;
+    background-image: url("/pics/swis.jpeg");
+}
+p{
+    font-size: large;
+
+}  
+h2,h1{
+    color: navy;
+    
+} 
+h1{
+   text-align: center;
+}

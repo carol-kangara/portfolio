@@ -5,6 +5,31 @@ body{
     background-position: cover;
     font font-weight: 30px;
 }
+header{
+    width: 100%;
+    position: fixed;
+    top:0;
+    left:0;
+    background-color: skyblue;
+    
+}
+    
+nav{
+    margin: 2px;
+    padding:18px;
+    background-color: skyblue; margin: 2px;
+    padding:18px;
+    background-color: skyblue;
+       
+}
+ul{
+    list-style-type: none;
+}
+li>a{
+    color:rgb(87, 139, 4);
+    margin-left:320px;
+    float: left;
+}
 p{
     font-size: large;
 

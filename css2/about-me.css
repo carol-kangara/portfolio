@@ -1,6 +1,9 @@
 body{
     background-color: skyblue;
     background-image: url("../pics/swis.jpeg");
+    background-repeat: no-repeat;
+    background-position: cover;
+    font font-weight: 30px;
 }
 p{
     font-size: large;
@@ -12,4 +15,9 @@ h2,h1{
 } 
 h1{
    text-align: center;
+}
+img{
+    height:180px;
+    width:180px;
+    
 }
